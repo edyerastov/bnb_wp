@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+	height: 100%;
+}
+body{
+    margin: 0;
+    color: #34404b;
+    font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+}
+ul, ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+a:focus, a:hover {
+    color: #ff5912;
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+input, textarea, button{
+    outline: none;
+    border: none;
+}
+textarea{
+    resize: vertical;
+}
+button{
+    cursor: pointer;
+}
+label{
+    margin-bottom: 0;
+}
+section{
+	margin: 30px 0;
+}
+.wraper{
+	margin: 30px 0;
+}
+.title{
+	margin-bottom: 20px;
+	font-size: 2rem;
+	display: inline-block;
+	position: relative;
+}
+.title::after,
+.page-title::after
+{
+    position: absolute;
+    content: "";
+    max-width: 90px;
+    left: 0;
+    right: 0;
+    bottom: -7px;
+    border-bottom: 1px solid #ED7745;
+    margin: 0 auto;
+}
+
+.page-title {
+	position: relative;
+}
+.btn.btn-prod{
+    border: 1px solid #ff5912!important;
+    transition: .2s linear!important;
+    color: #ff5912!important;
+	background-color: initial!important;
+}
+.btn.btn-prod:hover{
+    background-color: #ff5912!important;
+    color: #fff!important;
+}
+/* ICONS */
+
+.wishlist, .header-cart{
+	width: 35px;
+	height: 35px;
+	background-size: 100%;
+	position: relative;
+}
+.wishlist{
+	background-image: url('../img/icons/heart.png');
+}
+.wishlist:hover{
+	background-image: url('../img/icons/heart-active.png');
+}
+/* .wishlist:hover::after,
+.header-cart:hover::after{
+	background-color: #ff5912;
+} */
+/* .wishlist::after,
+.header-cart::after{
+	content: '0';
+	padding: 0 5px 2px;
+	background-color: #929292;
+	color: #fff;
+	border-radius: 3px;
+	text-align: center;
+	top: -5px;
+	right: -7px;
+	position: absolute;
+} */
+.header-cart{
+	background-image: url('../img/icons/cart.png');
+}
+.header-cart:hover{
+	background-image: url('../img/icons/cart-active.png');
+}
+.default-page ul{
+	list-style: initial;
+}
+.default-page ol{
+	list-style: numeric;
+}
+.default-page li{
+	list-style-position: inside;
+}
+.default-page li + li{
+	margin-top: 15px;
+}
+.default-page p{
+	margin: 10px 0;
+	display: inline-block;
+}
+

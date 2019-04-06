@@ -1,0 +1,9 @@
+2019-03-05T01:19:05+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:677
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-hook.php(286): WC_AJAX::add_variation('')
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-admin/admin-ajax.php(100): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/plugins/woocommerce/includes/class-wc-ajax.php на строке 677
+

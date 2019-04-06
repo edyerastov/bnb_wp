@@ -1,0 +1,65 @@
+2019-03-21T13:55:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 13 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(13): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T13:56:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T13:57:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T14:00:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T14:00:38+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ')' у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php доступно 14
+
+2019-03-21T14:01:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T14:02:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+
+2019-03-21T14:02:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php on line 2 and exactly 1 expected in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php:189
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php(2): get_cat_ID()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#4 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/category.php доступно 189
+

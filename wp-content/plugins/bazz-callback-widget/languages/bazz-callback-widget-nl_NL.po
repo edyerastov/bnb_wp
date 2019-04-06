@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-03 11:18+0000\n"
+"PO-Revision-Date: 2018-10-04 07:22+0000\n"
+"Language-Team: Nederlands\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: Viktor Ievlev <bazz@bk.ru>\n"
+"Language: nl_NL"
+
+#: bazz-callback-widget.php:48
+msgid ""
+"The loading is extremely high, we will call you back in the near future. "
+"Thanks!"
+msgstr ""
+"Het laden is extreem hoog, wij bellen terug naar u in de nabije toekomst. "
+"Bedankt!"
+
+#: bazz-callback-widget.php:49
+msgid ""
+"Unfortunately, we don't work for now. We will call you back tomorrow! Thanks!"
+msgstr ""
+"Jammer genoeg zijn wij momenteel niet beschikbaar. Wij bellen u morgen! "
+"Bedankt!"
+
+#: bazz-callback-widget.php:122
+msgid "EN"
+msgstr "NL"
+
+#: bazz-callback-widget.php:146
+msgid "The client wasn't introduced"
+msgstr "De klant was niet voorgesteld"
+
+#: bazz-callback-widget.php:161
+msgid "[FROM BAZZ WIDGET]"
+msgstr "[Van BAZZ callback widget]"
+
+#: bazz-callback-widget.php:162
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: bazz-callback-widget.php:163
+msgid "Name"
+msgstr "Naam"
+
+#: bazz-callback-widget.php:220
+msgid "CALL ME"
+msgstr "BEL ME NU"
+
+#: bazz-callback-widget.php:227
+msgid "you"
+msgstr "u"
+
+#: bazz-callback-widget.php:231
+#, php-format
+msgid "We will call %s back in the near future!"
+msgstr "We bellen %s binnenkort terug!"
+
+#: bazz-callback-widget.php:244
+#, php-format
+msgid "We will call %s back in %s seconds!"
+msgstr "We bellen %s binnen %s seconden terug!"
+
+#: bazz-callback-widget.php:251
+msgid "phone here"
+msgstr "Uw tel. nr. hier"
+
+#: bazz-callback-widget.php:253
+msgid "Call me!"
+msgstr "Bel mij!"
+
+#: bazz-callback-widget.php:257
+msgid "Introduce yourself, and we'll call you by name"
+msgstr "De persoon die wij terug bellen is genaamd..."
+
+#: bazz-callback-widget.php:259
+msgid "name here"
+msgstr "Uw naam hier"
+
+#: bazz-callback-widget.php:273
+msgid "Settings"
+msgstr "Instellingen"
+
+#: bazz-callback-widget.php:309
+msgid "Hi there! This is settings of the"
+msgstr "Hallo! Dit zijn de instellingen van "
+
+#: bazz-callback-widget.php:310
+msgid "Change the parameters to the your discretion."
+msgstr "Verander de parameters naar uw wensen"
+
+#: bazz-callback-widget.php:315
+msgid "Color scheme:"
+msgstr "Kleuren:"
+
+#: bazz-callback-widget.php:320
+msgid "To send the message to:"
+msgstr "Verzend de notificatie naar:"
+
+#: bazz-callback-widget.php:329
+msgid "Specify working time:"
+msgstr "Stel de werkuren in:"
+
+#: bazz-callback-widget.php:359
+#, php-format
+msgid "The working day with %s h to %s h"
+msgstr "De werkdag is van %s uur tot %s uur"
+
+#: bazz-callback-widget.php:363
+msgid "*The time zone is using WordPress settings."
+msgstr "*De tijdszone is gebaseerd op de Wordpress instellingen."
+
+#: bazz-callback-widget.php:364
+#, php-format
+msgid "For now is %s"
+msgstr "Het is nu %s"
+
+#: bazz-callback-widget.php:368
+msgid "The countdown will be started on"
+msgstr "Het aftellen zal beginnen op"
+
+#: bazz-callback-widget.php:370
+msgid "seconds."
+msgstr "seconden."
+
+#: bazz-callback-widget.php:372
+msgid "Set 0 and countdown functionality will be disabled"
+msgstr "Zet op 0 om het aftellen uit te schakelen"
+
+#: bazz-callback-widget.php:375
+msgid "The text after sending in working hours (afternoon):"
+msgstr "De tekst tijdens werkuren:"
+
+#: bazz-callback-widget.php:379
+msgid "The text after sending in NOT working hours (night):"
+msgstr "De tekst tijdens niet-werkuren:"
+
+#: bazz-callback-widget.php:384
+msgid "Your clients are from Russia?"
+msgstr "Uw cliënten komen uit Rusland?"
+
+#: bazz-callback-widget.php:388
+msgid "Yes"
+msgstr "Ja"
+
+#: bazz-callback-widget.php:391
+msgid "No"
+msgstr "Nee"
+
+#: bazz-callback-widget.php:396
+msgid "Distance from the window bottom"
+msgstr "Afstand van de onderkant van het venster"
+
+#: bazz-callback-widget.php:401
+msgid "Show on the left/right side"
+msgstr "Toon aan de linker-/rechterkant"
+
+#: bazz-callback-widget.php:405
+msgid "Left"
+msgstr "Links"
+
+#: bazz-callback-widget.php:408
+msgid "Right"
+msgstr "Rechts"
+
+#: bazz-callback-widget.php:412
+msgid "Save"
+msgstr "Opslaan"
+
+#. Name of the plugin
+msgid "Bazz CallBack Widget"
+msgstr "Bazz CallBack Widget"
+
+#. Description of the plugin
+msgid "This plugin makes a simple widget for callback on your website."
+msgstr "Deze plugin installeert een simpele widget om klanten terug te bellen"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://viktor-web.ru"
+msgstr "http://viktor-web.ru"
+
+#. Author of the plugin
+msgid "Viktor Ievlev"
+msgstr "Viktor Ievlev"

@@ -1,0 +1,32 @@
+2019-02-24T18:13:51+00:00 CRITICAL Call to undefined function post_is_in_descendant_category() в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/header.php на строке 15
+
+2019-02-24T18:31:11+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:31:53+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:32:03+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:34:18+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:34:36+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:34:41+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:34:49+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 16604 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-image-editor-gd.php на строке 97
+
+2019-02-24T18:34:54+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:34:59+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 3072 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/media.php на строке 2836
+
+2019-02-24T18:35:01+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 12060 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-image-editor-gd.php на строке 97
+
+2019-02-24T18:35:08+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 4160 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-image-editor-gd.php на строке 97
+
+2019-02-24T18:35:50+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 16640 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-image-editor-gd.php на строке 97
+
+2019-02-24T18:37:12+00:00 CRITICAL Allowed memory size of 73400320 bytes exhausted (tried to allocate 6720 bytes) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-image-editor-gd.php на строке 97
+
+2019-02-24T20:06:40+00:00 CRITICAL syntax error, unexpected end of file в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/plugins/woocommerce/includes/wc-template-functions.php на строке 3411
+
+2019-02-24T21:40:13+00:00 CRITICAL syntax error, unexpected 'remove_action' (T_STRING) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/functions.php на строке 56
+

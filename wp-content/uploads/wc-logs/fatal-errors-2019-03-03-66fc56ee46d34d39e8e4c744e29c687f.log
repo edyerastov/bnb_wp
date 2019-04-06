@@ -1,0 +1,12 @@
+2019-03-03T21:42:33+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/functions.php на строке 58
+
+2019-03-03T21:45:54+00:00 CRITICAL Uncaught Error: Call to undefined function the_exerpt() in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/functions.php:59
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-hook.php(286): woocommerce_template_loop_desc('')
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/woocommerce/content-product.php(63): do_action('woocommerce_aft...')
+#4 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template.php(690): require('/profiles/l/le/...')
+#5 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/profiles/l/le/...', false)
+#6 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/plugins/woocommerce/includes/wc-template-functions.php(898): в /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/functions.php на строке 59
+

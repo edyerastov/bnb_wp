@@ -1,0 +1,12 @@
+2019-03-20T16:01:19+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/woocommerce/single-product/add-to-cart/simple.php доступно 46
+
+2019-03-20T16:01:50+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/woocommerce/single-product/add-to-cart/simple.php доступно 46
+
+2019-03-20T16:36:20+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php:17
+Stack trace:
+#0 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-includes/template-loader.php(74): include()
+#1 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-blog-header.php(19): require_once('/profiles/l/le/...')
+#2 /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/index.php(17): require('/profiles/l/le/...')
+#3 {main}
+  thrown у /profiles/l/le/lef/left4mad/bnbwp.zzz.com.ua/wp-content/themes/bnb/category.php доступно 17
+
